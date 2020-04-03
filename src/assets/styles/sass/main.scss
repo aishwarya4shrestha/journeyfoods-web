@@ -1,0 +1,22 @@
+@import 'base/normalize.scss';
+@import 'global/default.scss';
+@import 'global/reset.scss';
+@import 'global/dashboard.scss'; //TODO: Change path
+@import 'global/login.scss';
+@import './components/index';
+
+.bg-white {
+  background: #fff;
+}
+
+.max-img-width {
+  max-width: 85px !important;
+}
+
+.padding-btm {
+  padding-bottom: 73px;
+}
+
+.margin-btm {
+  margin-bottom: 20px;
+}

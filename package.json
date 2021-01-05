@@ -13,7 +13,7 @@
     "@types/reactstrap": "^8.4.1",
     "@types/recharts": "^1.8.5",
     "@types/yup": "^0.26.27",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "chart.js": "2.7.2",
     "classnames": "^2.2.6",
